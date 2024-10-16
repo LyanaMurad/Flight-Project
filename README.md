@@ -1,4 +1,4 @@
-# Flight-Project
+# FLIGHT DELAY REASON CLASSIFICATION
 ## Abstract:
 
 This project focuses on enhancing the accuracy of flight delay reason classification using deep learning and machine learning techniques. By analyzing a comprehensive dataset of flight delays and their contributing factors, we develop predictive models to identify the underlying reasons for delays. Utilizing neural networks and advanced ML algorithms, we aim to classify delay types into distinct categories, such as security, weather, and airline-related delays. Our approach integrates data preprocessing, feature engineering, and model optimization to provide actionable insights for improving flight management and operational efficiency. This work contributes to more precise delay predictions, ultimately aiding in better decision-making and resource allocation in the aviation industry.
@@ -29,4 +29,19 @@ The objective of analyzing this flight dataset is to gain insights into various 
 7.	Building a Predictive Model: To develop a predictive model capable of forecasting delay reasons flights and identifying the factors influencing cancellations, in order to improve planning and make more accurate decisions in flight management.
 By achieving these objectives, the analysis aims to enhance understanding of flight operations, improve airline performance, increase customer satisfaction, and provide predictive tools to support better flight management.
 
- 
+## Machine Learning and ANN
+The performance of traditional machine learning models may be lower than that of artificial neural networks (ANNs) in some cases due to several key factors:
+1.	Data Complexity
+o	Traditional Machine Learning: Models like logistic regression or decision trees may struggle to capture complex interactions between features if the data contains nonlinear or intertwined relationships.
+o	Artificial Neural Networks (ANNs): ANNs can handle complex interactions and nonlinear patterns more effectively due to their ability to learn multi-layered representations of the data.
+2.	Model Generalization
+o	Traditional Machine Learning: Simpler models may be prone to underfitting, leading to poor performance if the data contains intricate patterns.
+o	Artificial Neural Networks (ANNs): ANNs can have many layers and neurons, allowing them to learn more complex features and better adapt to the data.
+3.	Data Size
+o	Traditional Machine Learning: Simple models might underperform if the dataset is large and complex.
+o	Artificial Neural Networks (ANNs): ANNs often perform better with large amounts of data, as they can leverage extensive training data to learn more precise patterns.
+4.	Feature Engineering and Normalization
+o	Traditional Machine Learning: Models may require extensive preprocessing and feature scaling to achieve good performance.
+o	Artificial Neural Networks (ANNs): ANNs can be more flexible in handling raw or poorly engineered features, thanks to their ability to automatically learn feature representations.
+ ##note:
+###I obtained a high accuracy of the model, but due to not saving the model and restarting the operation, unfortunately, the accuracy decreased to 76. Therefore, you will find in the PDF file that the accuracy of the model reached the nineties.
