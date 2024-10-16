@@ -29,7 +29,7 @@ The objective of analyzing this flight dataset is to gain insights into various 
 7.	Building a Predictive Model: To develop a predictive model capable of forecasting delay reasons flights and identifying the factors influencing cancellations, in order to improve planning and make more accurate decisions in flight management.
 By achieving these objectives, the analysis aims to enhance understanding of flight operations, improve airline performance, increase customer satisfaction, and provide predictive tools to support better flight management.
 
-## Machine Learning and ANN
+## Usning Machine Learning and ANN
 The performance of traditional machine learning models may be lower than that of artificial neural networks (ANNs) in some cases due to several key factors:
 1.	Data Complexity
 o	Traditional Machine Learning: Models like logistic regression or decision trees may struggle to capture complex interactions between features if the data contains nonlinear or intertwined relationships.
