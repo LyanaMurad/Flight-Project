@@ -44,4 +44,4 @@ o	Artificial Neural Networks (ANNs): ANNs often perform better with large amount
 o	Traditional Machine Learning: Models may require extensive preprocessing and feature scaling to achieve good performance.
 o	Artificial Neural Networks (ANNs): ANNs can be more flexible in handling raw or poorly engineered features, thanks to their ability to automatically learn feature representations.
  ## note:
-### I obtained a high accuracy of the model, but due to not saving the model and restarting the operation, unfortunately, the accuracy decreased to 76. Therefore, you will find in the PDF file that the accuracy of the model reached the nineties.
+#### I got a high accuracy of the model, but because I did not save and rerun the model, unfortunately the accuracy dropped to 76. So in the PDF you will find that the accuracy of the model reached the 90s.
